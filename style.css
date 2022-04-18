@@ -4,7 +4,6 @@
     font-family: 'Poppins', sans-serif;
     margin: 0;
     padding: 0;
-    box-sizing: border-box;
 }
 
 :root{
@@ -326,6 +325,6 @@ body.dark .home .text{
 
 @media screen and (min-width:1600px) and (max-width:1999px) {
     .home{
-        left:420px !important;
+        left:430px !important;
     }
 }
